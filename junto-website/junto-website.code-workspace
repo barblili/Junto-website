@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "hackathon-project",
+			"path": "../../../3rdSpaceWebsite/hackathon-project"
+		}
+	],
+	"settings": {}
+}
